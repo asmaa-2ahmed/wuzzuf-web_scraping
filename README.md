@@ -12,7 +12,7 @@ To run the web scraping script, follow these steps:
    !pip install requests
    !pip install bs4
    ```
-4. Open the "Project (3) : Web Scraping 'Wuzzuf'.ipynb" file in a Python environment or Jupyter Notebook.
+4. Open the "Web Scraping 'Wuzzuf'.py" file in a Python environment or Jupyter Notebook.
 5. Execute the cells in the notebook to run the web scraping script.
 
 ## Functions
